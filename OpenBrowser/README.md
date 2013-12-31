@@ -1,5 +1,4 @@
 ###Keymap
-![keymap]
 
 [
     { "keys": ["ctrl+shift+b"], "command": "open_browser","args": {"block":true,"url_basepath":"localhost"}}
