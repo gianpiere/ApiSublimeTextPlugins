@@ -1,0 +1,9 @@
+{
+  "Parametros":
+  [
+    {"Nombre":"Gianpiere"},
+    {"css":"statics/css/"},
+    {"js":"statics/js/"},
+    {"urlbase":"http://localhost/","controller":"application/controllers"}
+  ]
+}
